@@ -28,9 +28,16 @@ cmake -S . -B build -DLOOKER_FASTENER_DIR=C:\path\to\Fastener
 .\build\Release\looker.exe
 ```
 
+## Development
+
+Parts of this project were implemented using an agentic coding workflow with Codex.
+AI assistance was used to accelerate development, while architecture, design
+decisions, debugging and integration were performed manually.
+
 ## Next Iterations
 
 - richer directory tree
 - opening files with system handlers
 - context menus and keyboard shortcuts
 - details/preview pane
+
